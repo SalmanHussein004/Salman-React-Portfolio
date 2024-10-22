@@ -1,5 +1,5 @@
 import logo from "../assets/kevinRushLogo.png";
-import resume from "../assets/Salman2025Resume copy.pdf";  // Adjust the file path and extension as necessary
+import resume from "../assets/Salman2025Resume.pdf";  // Adjust the file path and extension as necessary
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { IoMdMail } from "react-icons/io";
 import { ImNewspaper } from "react-icons/im";

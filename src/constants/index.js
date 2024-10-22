@@ -16,8 +16,8 @@ export const EXPERIENCES = [
     technologies: ["React.js", "Next.js", "Firebase", " Material-UI", "OPENAI", "Stripe",],
   },
   {
-    year: "Maxr 2024 - Oct 2024",
-    role: "IT Specialist Intern",
+    year: "March 2024 - Oct 2024",
+    role: "IT Help Desk",
     company: "Ramsey County",
     description: "Provided comprehensive first-line technical support, achieving a 95% user satisfaction rate by effectively resolving issues related to software, hardware, and network systems. Spearheaded regular training sessions to elevate staff awareness on security practices and the importance of software updates, thereby enhancing overall system security. Additionally, developed and implemented robust backup procedures and disaster recovery plans, ensuring data integrity and rapid service restoration in the event of system failures.",
     technologies: ["VMware", "Linux", "Network Configuration", "Software Maintenance"],
